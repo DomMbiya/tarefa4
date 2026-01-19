@@ -60,6 +60,7 @@ Animação de entrada e saída do banner
 Link para política de privacidade
 
 Versão responsiva aprimorada
+.
 
 👨‍💻 Autor
 Oray Sebastião
