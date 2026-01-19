@@ -44,6 +44,7 @@ cd banner-cookies
 Abra o arquivo index.html no navegador.
 
 🧠 Funcionamento
+
 O banner é exibido usando CSS com position: fixed no rodapé da página.
 
 O botão Aceitar possui um evento click.
@@ -51,6 +52,7 @@ O botão Aceitar possui um evento click.
 Ao clicar, o JavaScript altera o estilo do banner para display: none, removendo-o da tela.
 
 🚀 Possíveis Melhorias Futuras
+
 Salvar a escolha do usuário com localStorage
 
 Animação de entrada e saída do banner
